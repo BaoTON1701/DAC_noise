@@ -1,5 +1,5 @@
-# DAC_noise
-We will simulate different aspects of noise that affect DAC
+# Noise in current mirror 
+In this note, I will try to derive the equation for noise spectral density in the simple current mirror
 
 # to play with this code, please follow 
 1. Open your terminal
